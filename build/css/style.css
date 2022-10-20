@@ -703,6 +703,10 @@ video {
   height: 80vh;
 }
 
+.h-60 {
+  height: 15rem;
+}
+
 .w-full {
   width: 100%;
 }
@@ -1176,6 +1180,11 @@ video {
   .md\:px-14 {
     padding-left: 3.5rem;
     padding-right: 3.5rem;
+  }
+
+  .md\:px-10 {
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
   }
 
   .md\:pt-28 {
